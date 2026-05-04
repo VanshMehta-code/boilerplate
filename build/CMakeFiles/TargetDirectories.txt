@@ -1,0 +1,3 @@
+/home/vector/quant/build/boilerplate/build/CMakeFiles/boilerplate.dir
+/home/vector/quant/build/boilerplate/build/CMakeFiles/edit_cache.dir
+/home/vector/quant/build/boilerplate/build/CMakeFiles/rebuild_cache.dir
