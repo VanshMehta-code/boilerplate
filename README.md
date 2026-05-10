@@ -95,7 +95,7 @@ HTTP server boilerplate with routing, middleware, and JSON request/response hand
 - Async request handling
 
 **Planned dependencies**
-- `cpp-httplib` or `crow`
+- `drogon`
 - `nlohmann/json`
 
 ---
